@@ -6,7 +6,7 @@ Con la ayuda de Qt vamos a crear nuestro propio monitor del sistema. Nos permiti
 
 ## Requisitos
 
- 1. [Clona este repositorio](https://github.com/alu0100891447/soa-system-monitor-alu0100891447) en tu ordenador.
+ 1. [Clona este repositorio](https://github.com/DzThor/soa-system-monitor) en tu ordenador.
  2. Tener instalado Qt Creator 5.8.
  
 ## Compilar
